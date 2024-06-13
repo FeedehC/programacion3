@@ -1,2 +1,2 @@
-print("Hola esto es un repo") #comentaria
-#B es lo mas
+print("Hola esto es un repo") #comentario
+#soy el desarrollador A
